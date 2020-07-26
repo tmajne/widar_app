@@ -1,14 +1,12 @@
-# widar_app
+# widar_app 
 
-WIDAR App - Development Description 
-
-I. Wstęp
+**I. Wstęp**
     Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacji produkcyjnych firmy Widar. 
     
 
     
 
-II. Baza Danych:  
+**II. Baza Danych: ** 
 
     1. Podwozia
         - Marka /string/
@@ -102,7 +100,7 @@ II. Baza Danych:
         - Stan paliwa (domyślnie "Brak danych")
         - Informacja o przypisanych pracownikach i ilości przepracowanych godzin
 
-III. Wersje aplikacji
+**III. Wersje aplikacji**
 
     // Widar App 0.1 - szablon aplikacji i podstawowe funkcje /
         // Opis skończonej wersji:
