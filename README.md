@@ -4,6 +4,7 @@ WIDAR App - Development Description
 
 I. Wstęp
     Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacji produkcyjnych firmy Widar. 
+    
 
     
 
@@ -102,9 +103,13 @@ II. Baza Danych:
 
 III. Wersje aplikacji
 
-    // Widar App 0.1 - szablon aplikacji i podstawowe funkcje
+    // Widar App 0.1 - szablon aplikacji i podstawowe funkcje /
         // Opis skończonej wersji:
-        Aplikacja ma stworzony prosty interfejs graficzy. Wyświetla po lewej stronie ekranu MENU z zakładą "Zamówienia", "Archiwum". Po kliknięciu w nią wyświetla listę z zamówieniami. Lista umożliwia użytkownikowi możliwość wyświetlenia szczegółów zamówienia, edycję, usunięcie oraz archiwizację. Na górze listy jest przycisk umożliwiający dodanie nowego zamówienia. Lista składa się z 7 kolumn:
+        Aplikacja ma stworzony prosty interfejs graficzy. 
+        Wyświetla po lewej stronie ekranu MENU z zakładą "Zamówienia", "Archiwum". 
+        Po kliknięciu w nią wyświetla listę z zamówieniami. 
+        Lista umożliwia użytkownikowi możliwość wyświetlenia szczegółów zamówienia, edycję, usunięcie oraz archiwizację. 
+        Na górze listy jest przycisk umożliwiający dodanie nowego zamówienia. Lista składa się z 7 kolumn:
             1. Kod zamówienia
             2. Status zamówienia
             3. Zamawiający (Dealer/Handlowiec)
@@ -115,7 +120,6 @@ III. Wersje aplikacji
             8. Kolumna z opcjami
         
         Po kliknięciu w szczegóły wyświetla się formularz który pobiera z bazy danych informacje o zamówieniu. Wszystkie potrzebne pola zostały opisane w "II. Baza danych". 
-
         Po kliknięciu w przycisk "Zakończ" zamówienie przenosi się na listę "Archiwum"
         Po kliknięciu na przycisk usuń zamówienie zostaje wykasowane z bazy danych. 
 
