@@ -7,13 +7,14 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
 
 **II. Wersje aplikacji**
 
-Widar App 0.1 - szablon aplikacji i podstawowe funkcje /
-      
-Aplikacja ma stworzony prosty interfejs graficzy. 
-Wyświetla po lewej stronie ekranu MENU z zakładą "Zamówienia", "Archiwum". 
-Po kliknięciu w nią wyświetla listę z zamówieniami. 
-Lista umożliwia użytkownikowi możliwość wyświetlenia szczegółów zamówienia, edycję, usunięcie oraz archiwizację. 
-Na górze listy jest przycisk umożliwiający dodanie nowego zamówienia. Lista składa się z 7 kolumn:
+##Widar App 0.1## - szablon graficzny + kilka pierwszych funkcji 
+
+Cele:
+- Aplikacja ma stworzony prosty interfejs graficzy. 
+- Wyświetla po lewej stronie ekranu MENU z zakładą "Zamówienia", "Archiwum". 
+- Po kliknięciu w "Zamówienia" zwraca rekordy z bazy "Zamówienia" 
+- Lista umożliwia użytkownikowi możliwość wyświetlenia szczegółów zamówienia, edycję, usunięcie oraz archiwizację. 
+- Na górze listy jest przycisk umożliwiający dodanie nowego zamówienia. Lista składa się z 7 kolumn:
             1. Kod zamówienia
             2. Status zamówienia
             3. Zamawiający (Dealer/Handlowiec)
@@ -23,11 +24,11 @@ Na górze listy jest przycisk umożliwiający dodanie nowego zamówienia. Lista 
             7. Data realizacji
             8. Kolumna z opcjami
         
-        Po kliknięciu w szczegóły wyświetla się formularz który pobiera z bazy danych informacje o zamówieniu. Wszystkie potrzebne pola zostały opisane w "II. Baza danych". 
-        Po kliknięciu w przycisk "Zakończ" zamówienie przenosi się na listę "Archiwum"
-        Po kliknięciu na przycisk usuń zamówienie zostaje wykasowane z bazy danych. 
+Po kliknięciu w szczegóły wyświetla się formularz który pobiera z bazy danych informacje o zamówieniu. Wszystkie potrzebne pola zostały opisane w "II. Baza danych". 
+Po kliknięciu w przycisk "Zakończ" zamówienie przenosi się na listę "Archiwum"
+Po kliknięciu na przycisk usuń zamówienie zostaje wykasowane z bazy danych. 
 
-
+Docelowo mogłoby to wyglądać mniej więcej tak: https://sb-admin-pro-angular.startbootstrap.com/dashboard
     
 
 **III. Baza Danych:** 
