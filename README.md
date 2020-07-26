@@ -7,7 +7,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
 
     
 
-**II. Baza Danych: ** 
+**II. Baza Danych:** 
 
     1. Podwozia
         - Marka /string/
