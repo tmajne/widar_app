@@ -5,9 +5,32 @@
 Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacji produkcyjnych firmy Widar. 
     
 
+**II. Wersje aplikacji**
+
+Widar App 0.1 - szablon aplikacji i podstawowe funkcje /
+      
+Aplikacja ma stworzony prosty interfejs graficzy. 
+Wyświetla po lewej stronie ekranu MENU z zakładą "Zamówienia", "Archiwum". 
+Po kliknięciu w nią wyświetla listę z zamówieniami. 
+Lista umożliwia użytkownikowi możliwość wyświetlenia szczegółów zamówienia, edycję, usunięcie oraz archiwizację. 
+Na górze listy jest przycisk umożliwiający dodanie nowego zamówienia. Lista składa się z 7 kolumn:
+            1. Kod zamówienia
+            2. Status zamówienia
+            3. Zamawiający (Dealer/Handlowiec)
+            4. Model & Marka & Typ Podwozia
+            5. VIN 
+            6. VAN 
+            7. Data realizacji
+            8. Kolumna z opcjami
+        
+        Po kliknięciu w szczegóły wyświetla się formularz który pobiera z bazy danych informacje o zamówieniu. Wszystkie potrzebne pola zostały opisane w "II. Baza danych". 
+        Po kliknięciu w przycisk "Zakończ" zamówienie przenosi się na listę "Archiwum"
+        Po kliknięciu na przycisk usuń zamówienie zostaje wykasowane z bazy danych. 
+
+
     
 
-**II. Baza Danych:** 
+**III. Baza Danych:** 
 
     1. Podwozia
         - Marka /string/
@@ -100,45 +123,3 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
         - Osoba odbierająca pojazd z naprawy 
         - Stan paliwa (domyślnie "Brak danych")
         - Informacja o przypisanych pracownikach i ilości przepracowanych godzin
-
-**III. Wersje aplikacji**
-
-    // Widar App 0.1 - szablon aplikacji i podstawowe funkcje /
-        // Opis skończonej wersji:
-        Aplikacja ma stworzony prosty interfejs graficzy. 
-        Wyświetla po lewej stronie ekranu MENU z zakładą "Zamówienia", "Archiwum". 
-        Po kliknięciu w nią wyświetla listę z zamówieniami. 
-        Lista umożliwia użytkownikowi możliwość wyświetlenia szczegółów zamówienia, edycję, usunięcie oraz archiwizację. 
-        Na górze listy jest przycisk umożliwiający dodanie nowego zamówienia. Lista składa się z 7 kolumn:
-            1. Kod zamówienia
-            2. Status zamówienia
-            3. Zamawiający (Dealer/Handlowiec)
-            4. Model & Marka & Typ Podwozia
-            5. VIN 
-            6. VAN 
-            7. Data realizacji
-            8. Kolumna z opcjami
-        
-        Po kliknięciu w szczegóły wyświetla się formularz który pobiera z bazy danych informacje o zamówieniu. Wszystkie potrzebne pola zostały opisane w "II. Baza danych". 
-        Po kliknięciu w przycisk "Zakończ" zamówienie przenosi się na listę "Archiwum"
-        Po kliknięciu na przycisk usuń zamówienie zostaje wykasowane z bazy danych. 
-
-    // Widar App 0.2 - rozbudowanie fukncji aplikacji 
-
-    // Widar App 0.3 
-
-    // Widar App 0.4 - Stylowanie aplikacji
-
-    // Widar App 0.5 
-
-    // Widar App 0.6 
-
-    // Widar App 0.7 
-
-    // Widar App 0.8 
-
-    // Widar App 0.9 
-
-    // Widar App 1.0 - Pierwsza werjsa użyteczna
-
-IV. 
