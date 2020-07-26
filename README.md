@@ -1,13 +1,13 @@
 # widar_app 
 
-**I. Wstęp**
+## I. Wstęp
 
 Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacji produkcyjnych firmy Widar. 
     
 
-**II. Wersje aplikacji**
+## II. Wersje aplikacji
 
-## Widar App 0.1 - szablon graficzny + kilka pierwszych funkcji 
+### Widar App 0.1 - szablon graficzny + kilka pierwszych funkcji 
 
 Cele:
 - Aplikacja ma stworzony prosty interfejs graficzy. 
@@ -25,7 +25,9 @@ Cele:
             8. Kolumna z opcjami
         
 Po kliknięciu w szczegóły wyświetla się formularz który pobiera z bazy danych informacje o zamówieniu. Wszystkie potrzebne pola zostały opisane w "II. Baza danych". 
+
 Po kliknięciu w przycisk "Zakończ" zamówienie przenosi się na listę "Archiwum"
+
 Po kliknięciu na przycisk usuń zamówienie zostaje wykasowane z bazy danych. 
 
 Docelowo mogłoby to wyglądać mniej więcej tak: https://sb-admin-pro-angular.startbootstrap.com/dashboard
