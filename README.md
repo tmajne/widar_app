@@ -1,7 +1,8 @@
 # widar_app 
 
 **I. Wstęp**
-    Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacji produkcyjnych firmy Widar. 
+
+Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacji produkcyjnych firmy Widar. 
     
 
     
