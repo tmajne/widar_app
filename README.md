@@ -7,7 +7,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
 
 **II. Wersje aplikacji**
 
-##Widar App 0.1## - szablon graficzny + kilka pierwszych funkcji 
+##Widar App 0.1 - szablon graficzny + kilka pierwszych funkcji 
 
 Cele:
 - Aplikacja ma stworzony prosty interfejs graficzy. 
