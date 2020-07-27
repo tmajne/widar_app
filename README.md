@@ -40,17 +40,10 @@ Docelowo mogłoby to wyglądać mniej więcej tak: https://sb-admin-pro-angular.
 ## III. Baza Danych:
 
     1. Podwozia
-        - Marka /string/
-        - Model /string/
-        - Typ podwozia /string/
-        - VIN /string/
-        - VAN /int/
-        - Plac /bool/
-        - Kolor /string/
-        - Liczba miejsc /string/
-        - Rozstaw osi /int/
-        - Waga bez zabudowy /int/ 
-        
+Marka /string/ | Model /string/ | Typ podwozia /string/|VIN  | VAN | Plac |Kolor | Liczba miejsc | Rozstaw osi| Waga bez zabudowy|
+---------------|----------------|----------------------|-----|-----|------|------|---------------|------------|------------------|
+Lorem ipsum    | Lorem ipsum    | Lorem ipsum          |Lorem|Lorem|Lorem |Lorem |Lorem ipsum    | Lorem      |                  |
+
     2. Dealerzy
         - Nazwa dealera (firmy);
         - NIP /int/
