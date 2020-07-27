@@ -10,9 +10,10 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
 ### Widar App 0.1 - szablon graficzny + kilka pierwszych funkcji 
 
 #### Cele:
-- Aplikacja ma stworzony prosty interfejs graficzy. 
-- Wyświetla po lewej stronie ekranu MENU z zakładą "Zamówienia", "Archiwum". 
-- Po kliknięciu w "Zamówienia" zwraca rekordy z bazy "Zamówienia" 
+- Aplikacja ma stworzony **prosty interfejs** graficzy. 
+- Menu: **Zamówienia** 
+- Widok listy zamówień
+- 
 - Lista umożliwia użytkownikowi możliwość wyświetlenia szczegółów zamówienia, edycję, usunięcie oraz archiwizację. 
 - Na górze listy jest przycisk umożliwiający dodanie nowego zamówienia. Lista składa się z 7 kolumn:
             1. Kod zamówienia
@@ -32,6 +33,9 @@ Po kliknięciu na przycisk usuń zamówienie zostaje wykasowane z bazy danych.
 
 Docelowo mogłoby to wyglądać mniej więcej tak: https://sb-admin-pro-angular.startbootstrap.com/dashboard
     
+### Widar App 0.2 - rozbudowanie funkcji 
+
+#### Cele:
 
 **III. Baza Danych:** 
 
