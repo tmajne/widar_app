@@ -156,11 +156,22 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
                 b) Czynności do wykonania na tym etapie:
                     - dokonanie pomiarów pojazdu
                     - uzupełnienie wewnętrznego protokołu homologacyjnego 
+                    - wykonanie zdjęć homologacyjnych (na wadze)
                     - podpisanie, zeskanowanie i wysłanie protokołu do specjalisty
             
             5. Odebranie pojazdu z produkcji - przygotowanie do wyjazdu
-            
+                a) Informacje które pojawiają się na tym etapie:
+                    - Data zakończenia produkcji 
+                    - 
+                    
+                b) Czynności do wykonania na tym etapie:
+                    - Kontrola jakości i zgodności z zamówieniem 
+                    - Zdjęcia samochodu do historii (przed halą)
+                    
             6. Archiwum
+                a) Informacje które pojawiają się na tym etapie: 
+                - 
+
                         
             
                        
