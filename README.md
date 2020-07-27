@@ -13,8 +13,9 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
 - Aplikacja ma stworzony **prosty interfejs** graficzy. 
 - Menu: **Zamówienia** 
 - Widok listy zamówień
-- 
-- Lista umożliwia użytkownikowi możliwość wyświetlenia szczegółów zamówienia, edycję, usunięcie oraz archiwizację. 
+- Widok edycji 
+- Widok podglądu 
+- Aplikacja umożliwia użytkownikowi możliwość wylistowania, wyświetlenia szczegółów, edycję oraz usunięcie zamówienia. 
 - Na górze listy jest przycisk umożliwiający dodanie nowego zamówienia. Lista składa się z 7 kolumn:
             1. Kod zamówienia
             2. Status zamówienia
