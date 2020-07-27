@@ -19,16 +19,16 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
 - Na górze listy jest przycisk umożliwiający dodanie nowego zamówienia. Lista składa się z 7 kolumn:
             1. Kod zamówienia
             2. Numer zamówienia (zewnętrzny)
-            2. Status zamówienia
-            3. Zamawiający (Dealer) => Relacja w przyszłości 
-            4. Zamawiający (Handlowiec) => Relacja w przyszłości 
-            5. Klient docelowy => Relacja w przyszłości
-            6. Dane Podwozia => Relacja w przyszłości 
-            7. Data złożenia zamówienia
-            8. Data realizacji zamówienia
-            9. Skąd przyjedzie podwozie
-            10. Dokąd odstawić zabudowany pojazd
-            11. Załączniki
+            3. Status zamówienia
+            4. Zamawiający (Dealer) => Relacja w przyszłości 
+            5. Zamawiający (Handlowiec) => Relacja w przyszłości 
+            6. Klient docelowy => Relacja w przyszłości
+            7. Dane Podwozia => Relacja w przyszłości 
+            8. Data złożenia zamówienia
+            9. Data realizacji zamówienia
+            10. Skąd przyjedzie podwozie
+            11. Dokąd odstawić zabudowany pojazd
+            12. Załączniki
             
             Etapy zamówienia:
             1. Wpłynięcie zamówienia do firmy 
@@ -44,8 +44,15 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
                     - Gdzie dostarczyć po zabudowie
                     - Specyfikacja zabudowy
                         - Skrócona nazwa opisowa zabudowy np. MaxTrans FLP RD => legenda
-                        - 
+                        - Dokładne dane produkcyjne (to temat na przyszłość)
+                        - Wyposażenie dodatkowe
+                        - Wymiary wewnętrzne zabudowy
                         - Termin realizacji 
+                b) Na tej podstawie możemy utworzyć i połączyć następujące obiekty:
+                    - Zamówienie (jako rekord w tabeli "Zamówienia")
+                    - Handlowiec (relacja do rekordu w tabeli "Osoby" z rolą "Handlowiec"
+                    - Podwozie (utworzenie rekordu i relacji z elementem w tabeli "Podwozia" 
+                       
                     
 
     
