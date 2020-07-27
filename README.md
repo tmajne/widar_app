@@ -37,7 +37,7 @@ Docelowo mogłoby to wyglądać mniej więcej tak: https://sb-admin-pro-angular.
 
 #### Cele:
 
-**III. Baza Danych:** 
+## III. Baza Danych:
 
     1. Podwozia
         - Marka /string/
