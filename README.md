@@ -81,6 +81,68 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
                     - Połączyć dokumenty papierowe z dostawy z zamówieniem i dokumentem CoC
                     - Położyć szefowi na biurko ten zestaw dokumentów
             3. Przekazanie pojazdu do produkcji
+                a) Informacje które uzyskuje w momencie przekazania podwozia na produkcję:
+                    - Numer zabudowy WDR
+                    - Stanowisko produkcyjne (można byłoby przypisywać pracowników, rolę i roboczogodziny)
+                    - Data i godzina rozpoczęcia produkcji
+                    - 
+                    - Dokładna specyfikacja zabudowy
+                        - Wymiary 
+                            - Wewnętrzne
+                                - Długość
+                                - Szerokość 
+                                - Wysokość boczna (pod firanę)
+                                - Wysokość załadunkowa tylna 
+                            - Zewnętrzne
+                                - Długość
+                                - Szerokość
+                                - Wysokość
+                            - Inne
+                                - Odległość od osi tylnej
+                                - Rozstaw podłużnic
+                        - Informacje ogólne o zabudowie
+                            - Deski plandeki: aluminiowe/drewniane;
+                            - Konstrukcja pomiędzy przednimi słupami zabudowy;
+                            - 
+                        - Rama
+                            - Profile pomocnicze(podłużnice): 250/200/160/130/108/90/Stalowe
+                            - Profile poprzeczne(poprzeczki): 70/90/130
+                            - Profile obwodowe: 94/117/135
+                            - Sklejka podłogowa: 15/18/27
+                            - Uchwyty mocowania ładunku: Tak(x+x)/Nie 
+                            - Naroża: Light/Stalowe
+                            - Zestaw montażowy (konsole): alu/stalowe
+                        - Słupki i burty
+                            - Słupy przednie 
+                            - Słupki tylne
+                            - Słupki środkowe
+                            - Burty
+                        - Elementy dodatkowe wyposażenia
+                            - Osłony antyrowerowe
+                            - Poduszki pneumatyczne
+                            - Ogrzewanie postojowe
+                            - Zbiorniki na wodę
+                            - Skrzynki narzędziowe
+                            - Plandeka (szczegóły)
+                            - Kabina sypialna (owiewki/spojler góra)
+                            - Spojler dachowy (owiewki)
+                            - Błotniki
+                            - Oświetlenie obrysowe
+                            - Oświetlenie rogów
+                            - Oświetlenie przestrzeni załadunkowej
+                        - Systemy dachowe
+                            - Firana na szynach stalowych / aluminiowych
+                            - Podnoszenie dachu
+                        - Tył zabudowy 
+                            - Drzwi 
+                            - Klapka
+                        - Uwagi / Dodatki / Niestandardy 
+                b) Czynności które muszą być wykonane w momencie przekazania pojazdu na produkcje 
+                    - Nadanie numeru zabudowy
+                    - Utworzenie formularza produkcyjnego 
+                    - 
+            4. Proces 
+                        
             
                        
                     
