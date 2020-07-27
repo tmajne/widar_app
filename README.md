@@ -52,11 +52,36 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
                     - Zamówienie (jako rekord w tabeli "Zamówienia")
                     - Handlowiec (relacja do rekordu w tabeli "Osoby" z rolą "Handlowiec"
                     - Podwozie (utworzenie rekordu i relacji z elementem w tabeli "Podwozia"
-            2. Dostawa podwozia:
+            2. Dostawa pojazdu:
                 a) Informacje które uzyskuje w momencie przyjęcia podwozia:
                     - Firma transportowa która przywiozła podwozie
                     - Imię i nazwisko kierowcy który przywiózł podwozie
-                    - Data i godzina przek
+                    - Data i godzina przekazania pojazdu
+                    - Uszkodzenia pojazdu (czy są, jeżeli tak to jakie)
+                    - Podstawowe wyposażenie (Karton fabryczny, karty kodowe, 2 kluczyki, 
+                    koło zapasowe, antena od radia, zaślepki)
+                    - Kolor + kod koloru
+                    - liczba miejsc 
+                    - zdjęcia podwozia
+                        - tabliczka znamionowa
+                        - wnętrze kabiny
+                        - przód, tył, lewa, prawa
+                        - uszkodzenia
+                    - skan formularza przekazania 
+                    - skan CMR (jeżeli jest)
+                    - skan protokołu uszkodzenia (jeżeli jest)
+                b) Czynności do wykonania w momencie dostawy:
+                    - Stworzyć przywieszkę do kluczyka z numerem na placu
+                    - Stworzyć kartkę za szybę z numerem na placu 
+                    - Przykleić naklejkę z danymi pojazdu na kluczyk (z CMR)
+                    - Wypisać protokół dostwy 
+                    - Uchwycić i zapisać informacje wypisane w pkt. a
+                    - Wykonać zdjęcia i skany;
+                    - Wysłać maila ze skanem formularza do osób zainteresowanych 
+                    - Połączyć dokumenty papierowe z dostawy z zamówieniem i dokumentem CoC
+                    - Położyć szefowi na biurko ten zestaw dokumentów
+            3. Przekazanie pojazdu do produkcji
+            
                        
                     
 
