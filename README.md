@@ -51,7 +51,12 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
                 b) Na tej podstawie możemy utworzyć i połączyć następujące obiekty:
                     - Zamówienie (jako rekord w tabeli "Zamówienia")
                     - Handlowiec (relacja do rekordu w tabeli "Osoby" z rolą "Handlowiec"
-                    - Podwozie (utworzenie rekordu i relacji z elementem w tabeli "Podwozia" 
+                    - Podwozie (utworzenie rekordu i relacji z elementem w tabeli "Podwozia"
+            2. Dostawa podwozia:
+                a) Informacje które uzyskuje w momencie przyjęcia podwozia:
+                    - Firma transportowa która przywiozła podwozie
+                    - Imię i nazwisko kierowcy który przywiózł podwozie
+                    - Data i godzina przek
                        
                     
 
