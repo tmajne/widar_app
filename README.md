@@ -12,27 +12,43 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
 #### Cele:
 - Aplikacja ma stworzony **prosty interfejs** graficzy. 
 - Menu: **Zamówienia** 
-- Widok listy zamówień
-- Widok edycji 
-- Widok podglądu 
+- Widok **listy zamówień**
+- Widok **edycji**
+- Widok **podglądu** 
 - Aplikacja umożliwia użytkownikowi możliwość wylistowania, wyświetlenia szczegółów, edycję oraz usunięcie zamówienia. 
 - Na górze listy jest przycisk umożliwiający dodanie nowego zamówienia. Lista składa się z 7 kolumn:
             1. Kod zamówienia
+            2. Numer zamówienia (zewnętrzny)
             2. Status zamówienia
-            3. Zamawiający (Dealer/Handlowiec)
-            4. Model & Marka & Typ Podwozia
-            5. VIN 
-            6. VAN 
-            7. Data realizacji
-            8. Kolumna z opcjami
-        
-Po kliknięciu w szczegóły wyświetla się formularz który pobiera z bazy danych informacje o zamówieniu. Wszystkie potrzebne pola zostały opisane w "II. Baza danych". 
+            3. Zamawiający (Dealer) => Relacja w przyszłości 
+            4. Zamawiający (Handlowiec) => Relacja w przyszłości 
+            5. Klient docelowy => Relacja w przyszłości
+            6. Dane Podwozia => Relacja w przyszłości 
+            7. Data złożenia zamówienia
+            8. Data realizacji zamówienia
+            9. Skąd przyjedzie podwozie
+            10. Dokąd odstawić zabudowany pojazd
+            11. Załączniki
+            
+            Etapy zamówienia:
+            1. Wpłynięcie zamówienia do firmy 
+                a) Informacje które zawiera zamówienie:
+                    - Data złożenia zamówienia
+                    - Handlowiec
+                    - Numer zamówienia (zewn)
+                    - Rodzaj zabudowy
+                    - Model Marka Typ
+                    - rozstaw osi 
+                    - VIN lub VAN podwozia
+                    - Skąd przyjedzie podwozie
+                    - Gdzie dostarczyć po zabudowie
+                    - Specyfikacja zabudowy
+                        - Skrócona nazwa opisowa zabudowy np. MaxTrans FLP RD => legenda
+                        - 
+                        - Termin realizacji 
+                    
 
-Po kliknięciu w przycisk "Zakończ" zamówienie przenosi się na listę "Archiwum"
-
-Po kliknięciu na przycisk usuń zamówienie zostaje wykasowane z bazy danych. 
-
-Docelowo mogłoby to wyglądać mniej więcej tak: https://sb-admin-pro-angular.startbootstrap.com/dashboard
+    
     
 ### Widar App 0.2 - rozbudowanie funkcji 
 
