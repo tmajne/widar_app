@@ -9,7 +9,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
 
 ### Widar App 0.1 - szablon graficzny + kilka pierwszych funkcji 
 
-Cele:
+#### Cele:
 - Aplikacja ma stworzony prosty interfejs graficzy. 
 - Wyświetla po lewej stronie ekranu MENU z zakładą "Zamówienia", "Archiwum". 
 - Po kliknięciu w "Zamówienia" zwraca rekordy z bazy "Zamówienia" 
@@ -106,7 +106,7 @@ Docelowo mogłoby to wyglądać mniej więcej tak: https://sb-admin-pro-angular.
         - Przyjęcie zewnętrzne
         - Wydanie zewnętrzne 
         - Oddanie na produkcję
-        - Przyjęcie poprodukcyjne
+        - Przyjęcie poprodukcyjne (
         - Wydanie zewnętrzne
         - Zadanie 
         - Zdarzenie 
