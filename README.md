@@ -35,6 +35,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
                 a) Informacje które zawiera zamówienie:
                     - Data złożenia zamówienia
                     - Handlowiec
+                    - Klient docelowy - ustalić NIP, telefon i email do osoby odpowiedzialnej za flotę 
                     - Numer zamówienia (zewn)
                     - Rodzaj zabudowy
                     - Model Marka Typ
@@ -158,6 +159,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
                     - uzupełnienie wewnętrznego protokołu homologacyjnego 
                     - wykonanie zdjęć homologacyjnych (na wadze)
                     - podpisanie, zeskanowanie i wysłanie protokołu do specjalisty
+                    - wydrukowanie i przyklejenie naklejki homologacyjnej na podłużnicy 
             
             5. Odebranie pojazdu z produkcji - przygotowanie do wyjazdu
                 a) Informacje które pojawiają się na tym etapie:
@@ -167,10 +169,21 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
                 b) Czynności do wykonania na tym etapie:
                     - Kontrola jakości i zgodności z zamówieniem 
                     - Zdjęcia samochodu do historii (przed halą)
+                    - Utworzenie kompletu dokumentów wyjazdowych 
+                    - Utworzenie książki gwarancyjnej 
+            
+            6. Wyjazd
+                a) Informacje które pojawiają się na tym etapie:
+                    - Data wydania pojazdu z firmy 
+                    - Firma transportowa
+                    - Kierowca 
+                    - Sposób wydania (odbiór osobisty, dowóz na kołach, dowóz na lawecie)
+                    - Odbiorca
+                    - Uwagi
                     
-            6. Archiwum
+            7. Archiwum
                 a) Informacje które pojawiają się na tym etapie: 
-                - 
+                - Data wydania pojazdu z firmy 
 
                         
             
