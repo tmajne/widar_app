@@ -80,6 +80,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
                     - Wysłać maila ze skanem formularza do osób zainteresowanych 
                     - Połączyć dokumenty papierowe z dostawy z zamówieniem i dokumentem CoC
                     - Położyć szefowi na biurko ten zestaw dokumentów
+                    - Zważenie podwozia i zapisanie informacji o wadze w materiałach referencyjnych 
             3. Przekazanie pojazdu do produkcji
                 a) Informacje które uzyskuje w momencie przekazania podwozia na produkcję:
                     - Numer zabudowy WDR
@@ -139,9 +140,27 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
                         - Uwagi / Dodatki / Niestandardy 
                 b) Czynności które muszą być wykonane w momencie przekazania pojazdu na produkcje 
                     - Nadanie numeru zabudowy
+                    - Ustalenie pracowników / stanowiska produkcyjnego 
+                    - Przepisanie informacji z zamówienia do konfiguratora w excel
                     - Utworzenie formularza produkcyjnego 
-                    - 
-            4. Proces 
+                    
+            4. Proces homologacyjny 
+                a) Informacje które pojawiają się na tym etapie: 
+                    - Waga pojazdu zabudowanego (4 osie + waga całkowita) - stan gotowy do jazdy, bez kierowcy, bez paliwa
+                    - Długość całkowita
+                    - Wysokość całkowita
+                    - Szerokość całkowita
+                    - długość wewnętrzna skrzyni załadunkowej
+                    - dopuszczalna ładowność
+                    - dopuszczalna masa całkowita pojazdu
+                b) Czynności do wykonania na tym etapie:
+                    - dokonanie pomiarów pojazdu
+                    - uzupełnienie wewnętrznego protokołu homologacyjnego 
+                    - podpisanie, zeskanowanie i wysłanie protokołu do specjalisty
+            
+            5. Odebranie pojazdu z produkcji - przygotowanie do wyjazdu
+            
+            6. Archiwum
                         
             
                        
