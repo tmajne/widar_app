@@ -6,7 +6,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
     
     
 ## II. Procedury produkcyjne:
-1. Wpłynięcie zamówienia do firmy 
+### 1. Wpłynięcie zamówienia do firmy 
     
     a) Informacje które zawiera zamówienie:
     
@@ -32,7 +32,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
         - Handlowiec (relacja do rekordu w tabeli "Osoby" z rolą "Handlowiec"
         - Podwozie (utworzenie rekordu i relacji z elementem w tabeli "Podwozia"
         
-2. Dostawa pojazdu:
+### 2. Dostawa pojazdu:
 
     a) Informacje które uzyskuje w momencie przyjęcia podwozia:
     
@@ -66,7 +66,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
         - Położyć szefowi na biurko ten zestaw dokumentów
         - Zważenie podwozia i zapisanie informacji o wadze w materiałach referencyjnych 
         
-3. Przekazanie pojazdu do produkcji
+### 3. Przekazanie pojazdu do produkcji
 
     a) Informacje które uzyskuje w momencie przekazania podwozia na produkcję:
     
@@ -134,7 +134,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
         - Przepisanie informacji z zamówienia do konfiguratora w excel
         - Utworzenie formularza produkcyjnego 
 
-4. Proces homologacyjny 
+### 4. Proces homologacyjny 
 
     a) Informacje które pojawiają się na tym etapie: 
     
@@ -154,7 +154,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
         - podpisanie, zeskanowanie i wysłanie protokołu do specjalisty
         - wydrukowanie i przyklejenie naklejki homologacyjnej na podłużnicy 
 
-5. Odebranie pojazdu z produkcji - przygotowanie do wyjazdu
+### 5. Odebranie pojazdu z produkcji - przygotowanie do wyjazdu
 
     a) Informacje które pojawiają się na tym etapie:
     
@@ -168,7 +168,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
         - Utworzenie kompletu dokumentów wyjazdowych 
         - Utworzenie książki gwarancyjnej 
 
-6. Wyjazd
+### 6. Wyjazd
 
     a) Informacje które pojawiają się na tym etapie:
     
@@ -179,7 +179,7 @@ Aplikacja ma na celu uporządkowanie, wprowadzanie oraz archiwizowanie informacj
         - Odbiorca
         - Uwagi
 
-7. Archiwum
+### 7. Archiwum
 
     a) Informacje które pojawiają się na tym etapie: 
     
